@@ -8,6 +8,7 @@
   <a href="https://mizba-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mizba--dev.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:mdmizbaulhaque89@gmail.com"><img src="https://img.shields.io/badge/Email-mdmizbaulhaque89@gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammad-mizbaul-haque-6801123b1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/md_mizbaulhaque"><img src="https://img.shields.io/badge/X-@md_mizbaulhaque-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Md-Mizbaul-Haque&label=Profile%20views&color=2563eb&style=for-the-badge" />
 </p>
 
@@ -194,10 +195,11 @@ Custom dashboards, agency CRMs, AI summarizers & embeddable widgets — tailored
 <p>
   <a href="https://mizba-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mizba--dev.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammad-mizbaul-haque-6801123b1/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad_Mizbaul_Haque-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/md_mizbaulhaque"><img src="https://img.shields.io/badge/X-@md_mizbaulhaque-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:mdmizbaulhaque89@gmail.com"><img src="https://img.shields.io/badge/Email-mdmizbaulhaque89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Md-Mizbaul-Haque"><img src="https://img.shields.io/badge/GitHub-Mohammad_Mizbaul_Haque-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
-> **Hiring? Have an idea?** I reply within 24h. Let's ship your product — [email me](mailto:mdmizbaulhaque89@gmail.com) or [DM on LinkedIn](https://www.linkedin.com/in/mohammad-mizbaul-haque-6801123b1/).
+> **Hiring? Have an idea?** I reply within 24h. Let's ship your product — [email me](mailto:mdmizbaulhaque89@gmail.com), [DM on LinkedIn](https://www.linkedin.com/in/mohammad-mizbaul-haque-6801123b1/) or [DM on X](https://x.com/md_mizbaulhaque).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" />

@@ -157,29 +157,35 @@ Custom dashboards, agency CRMs, AI summarizers & embeddable widgets — tailored
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Mizbaul-Haque&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Md-Mizbaul-Haque&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-Mizbaul-Haque&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Mizbaul-Haque&theme=tokyonight&utcOffset=6" />
+</p>
+
+<!-- Previous Vercel stats cards are temporarily 503/402 — kept as fallback, uncomment when service recovers:
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Md-Mizbaul-Haque&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Md-Mizbaul-Haque&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mizbaul-Haque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&langs_count=6" />
 </p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mizbaul-Haque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Md-Mizbaul-Haque&theme=tokyonight&no-frame=true&no-bg=true&column=6" />
-</p>
+-->
 
 ---
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Mizbaul-Haque&theme=tokyo-night&hide_border=true&area=true&bg_color=0f172a&color=2563eb&line=2563eb&point=ffffff" />
+  <img src="https://ghchart.rshah.org/2563eb/Md-Mizbaul-Haque" alt="Contribution Chart" />
 </p>
 
+<!-- Snake animation — enable after adding .github/workflows/snake.yml (see commit):
 <p align="center">
   <img src="https://raw.githubusercontent.com/Md-Mizbaul-Haque/Md-Mizbaul-Haque/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
+-->
 
 ---
 

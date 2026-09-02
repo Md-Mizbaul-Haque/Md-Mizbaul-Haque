@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Md%20Mizbaul%20Haque&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=75&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Mohammad%20Mizbaul%20Haque&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=75&descAlign=50" />
 
 <p align="center">
   <a href="https://github.com/Md-Mizbaul-Haque"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+for+Hire;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+%E2%80%A2+Node.js;Available+for+Freelance+%26+Remote+Roles;Building+Zencalcy.com+%26+Scalable+Web+Products" alt="Typing SVG" /></a>
@@ -195,7 +195,7 @@ Custom dashboards, agency CRMs, AI summarizers & embeddable widgets — tailored
   <a href="https://mizba-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mizba--dev.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohammad-mizbaul-haque-6801123b1/"><img src="https://img.shields.io/badge/LinkedIn-Mohammad_Mizbaul_Haque-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:mdmizbaulhaque89@gmail.com"><img src="https://img.shields.io/badge/Email-mdmizbaulhaque89@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Md-Mizbaul-Haque"><img src="https://img.shields.io/badge/GitHub-Md--Mizbaul--Haque-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Md-Mizbaul-Haque"><img src="https://img.shields.io/badge/GitHub-Mohammad_Mizbaul_Haque-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 > **Hiring? Have an idea?** I reply within 24h. Let's ship your product — [email me](mailto:mdmizbaulhaque89@gmail.com) or [DM on LinkedIn](https://www.linkedin.com/in/mohammad-mizbaul-haque-6801123b1/).
